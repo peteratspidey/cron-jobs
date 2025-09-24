@@ -32,7 +32,7 @@ cron -e
 > save this and done !
 > this will run this command every ten min
 1. is for the min
-2. is for the hours
-3. is for the day(1-30)
-4. is for the month (which month)
-5. is for the days of the month
+2. is for the hours (time)
+3. is for the day(1-30 , 1,3,4)
+4. is for the month (which month =1-4 jan to april)
+5. is for the days of the month (monday-wed = 1-3, mon,tue = 1,2)
